@@ -1,0 +1,17 @@
+{
+  "name": "balanca-bot",
+  "version": "1.0.0",
+  "description": "Projeto de sistemas embarcados",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kerlen Melo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "mqtt": "^5.14.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
